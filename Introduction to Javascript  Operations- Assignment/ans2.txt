@@ -1,0 +1,45 @@
+Q2 . Describe the categorization of operators in JavaScript based on their functionality. Provide examples for 
+each category.
+
+Solution:  Operators in JavaScript can be categorized based on their functionality. Here are the main categories:
+
+1. Arithmetic Operators:
+Perform basic mathematical operations.
+ sum = 5 + 3;    // Addition
+ difference = 7 - 2; // Subtraction
+ product = 4 * 6; // Multiplication
+ quotient = 8 / 2; // Division
+ remainder = 10 % 3; // Modulus (remainder of division)
+
+2. Comparison Operators:
+Compare two values and return a Boolean result.
+ isEqual = (5 == "5");      // Equality (loose)
+ isStrictEqual = (5 === 5); // Strict Equality
+ isNotEqual = (10 != 8);    // Inequality (loose)
+ isGreaterThan = (15 > 10); // Greater than
+ isLessThanOrEqual = (20 <= 25); // Less than or equal to
+
+3. Logical Operators:
+Perform logical operations on Boolean values.
+ andResult = (true && false);  // Logical AND
+ orResult = (true || false);   // Logical OR
+ notResult = !true;            // Logical NOT
+
+4. Assignment Operators:
+Assign values to variables.
+ x = 10;     // Basic assignment
+x += 5;         // Addition assignment (x = x + 5)
+
+5. Increment/Decrement Operators:
+Increase or decrease the value of a variable.
+ count = 5;
+count++;        // Increment by 1
+count--;        // Decrement by 1
+
+6. Bitwise Operators:
+Manipulate individual bits in binary numbers.
+ bitAnd = 5 & 3;  // Bitwise AND
+ bitOr = 5 | 3;   // Bitwise OR
+ bitXor = 5 ^ 3;  // Bitwise XOR
+
+

@@ -1,0 +1,20 @@
+Question 1: Explain what JavaScript is and its role in web development.
+
+Answer:
+JavaScript is a versatile programming language primarily used for building interactive and dynamic content on the web. It plays a crucial role in web development by allowing developers to create dynamic and responsive user interfaces. JavaScript is executed on the client side, meaning it runs in the user's web browser, and it can manipulate the Document Object Model (DOM), which represents the structure of a web page.
+
+Key aspects of JavaScript and its role in web development include:
+
+1. Client-Side Scripting: JavaScript is mainly used for client-side scripting, enabling developers to enhance the user experience by creating interactive elements, handling user input, and dynamically updating content without requiring a page reload.
+
+2. DOM Manipulation: JavaScript interacts with the DOM, a hierarchical representation of the HTML document, allowing developers to dynamically modify the content, structure, and style of a web page in response to user actions or other events.
+
+3. Event Handling: JavaScript enables developers to respond to various user interactions, such as clicks, keypresses, and mouse movements. This responsiveness contributes to the creation of dynamic and user-friendly interfaces.
+
+4. Asynchronous Programming: JavaScript supports asynchronous programming through features like callbacks, promises, and async/await. This is crucial for handling tasks such as fetching data from servers without blocking the execution of other code.
+
+5. Browser Compatibility: JavaScript is supported by all major web browsers, making it a universal language for web development. This allows developers to create consistent and cross-browser compatible applications.
+
+6. Frameworks and Libraries: There are numerous JavaScript frameworks and libraries, such as React, Angular, and Vue.js, that simplify and streamline the development process. These tools provide reusable components, state management, and other features that help developers build scalable and maintainable web applications.
+
+7. Server-Side Development: With the introduction of technologies like Node.js, JavaScript can also be used for server-side development. This allows developers to use a single language (JavaScript) for both client and server-side programming, facilitating full-stack development.

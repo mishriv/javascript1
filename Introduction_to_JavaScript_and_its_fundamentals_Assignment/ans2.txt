@@ -1,0 +1,29 @@
+Question 2: Explain the key differences between JavaScript and HTML. Provide examples of situations where you would use each.
+
+ANSWER:
+
+***JavaScript***
+
+Purpose: JavaScript is a programming language used for adding interactivity and dynamic behavior to web pages. It runs on the client-side, meaning it executes in the user's web browser.
+
+Syntax: JavaScript uses a syntax similar to other programming languages like Java or C++. It involves writing statements, functions, and variables.
+
+Example Usage:
+
+-Form Validation: You can use JavaScript to validate user input in forms before submission.
+-DOM Manipulation: JavaScript can be used to dynamically change the content and style of HTML elements on a web page.
+-Event Handling: JavaScript can handle user interactions such as mouse clicks, keyboard events, and touch events.
+-AJAX Requests: JavaScript can make asynchronous requests to a server to fetch or send data without reloading the entire web page.
+
+***HTML***
+
+Purpose: HTML (Hypertext Markup Language) is a markup language used to structure the content of web pages. It defines the elements and their layout on a webpage.
+
+Syntax: HTML uses tags to define elements such as headings, paragraphs, links, images, and more. Tags are enclosed in angle brackets < >.
+
+Example Usage:
+
+-Text Content: HTML is used to structure and display text content on a webpage.
+-Images and Media: HTML is used to embed images, videos, and audio files on a webpage using <img>, <video>, and <audio> tags respectively.
+-Hyperlinks: HTML is used to create hyperlinks to navigate between web pages using <a> tags.
+-Forms: HTML is used to create input forms for user interaction, such as text fields, checkboxes, radio buttons, and buttons using <form> and various input tags.
